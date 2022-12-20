@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tiny Anna Das</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img align="center" width=“600” src="https://imgs.search.brave.com/FoZcBYN5JLcpdoQPlPRT3dWY2sUM9sVyDTKnos_EFms/rs:fit:350:197:1/g:ce/aHR0cDovL3d3dy5j/YXJ0b29uYnVja2V0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNy9Bbmlt/ZS1UeXBpbmctSW4t/Q29tcHV0ZXIuZ2lm.gif" alt=“coding”>
+<img style="display:block; margin: 0 auto;" width=“600” src="https://imgs.search.brave.com/FoZcBYN5JLcpdoQPlPRT3dWY2sUM9sVyDTKnos_EFms/rs:fit:350:197:1/g:ce/aHR0cDovL3d3dy5j/YXJ0b29uYnVja2V0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNy9Bbmlt/ZS1UeXBpbmctSW4t/Q29tcHV0ZXIuZ2lm.gif" alt=“coding”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinyannadas&label=Profile%20views&color=0e75b6&style=flat" alt="tinyannadas" /> </p>
 
