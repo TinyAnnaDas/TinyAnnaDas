@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiny Anna Das</h1> <h3 align="center">🚀 Python Full Stack Developer | Passionate about Scalable Applications & AI Integration</h3>
 👩‍💻 About Me
-python
-Copy code
-class TinyAnnaDas:
+    
+    class TinyAnnaDas:
     def __init__(self):
         self.name = "Tiny Anna Das"
         self.role = "Python Full Stack Developer"
         self.interests = ["AI Integration", "Web Development", "Cloud Technologies"]
         self.hobbies = ["Exploring tech trends", "Creating scalable solutions", "Self-improvement"]
-
+        
     def code(self):
         return ["Python", "Django", "React", "SQL"]
 
