@@ -22,7 +22,7 @@ How many times have others visited?
 
 ## 🛠 Tech Stack
 
-![GIF](assets/tiny_image.png)
+![GIF](assets/stacks.gif)
 
 #### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
