@@ -1,13 +1,15 @@
-[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)](https://github.com/tinyannadas)
+[![Banner](assets/tiny_image.png)](https://github.com/tinyannadas)
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQE8rhxFRwmTPw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705556430995?e=1738195200&v=beta&t=yLp77TR4qXGmXBzyWouOaU5_WS98I-w6Iv8z70xEr3c" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Tiny Anna Das</h1>
+<p>Thanks for stopping by! 👋</p>
 <h3 align="center">🚀 Python Full Stack Developer | Passionate about Scalable Applications & AI Integration</h3>
 
 ---
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tinyannadas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+    <a href="https://github.com/tinyannadas?tab=followers">
+        <img src="https://img.shields.io/github/followers/tinyannadas?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
+    </a>
+</p>
 
 ### 👩‍💻 About Me
 - 🌱 **Currently Learning:** Nginx for hosting websites & integrating AI features.  
