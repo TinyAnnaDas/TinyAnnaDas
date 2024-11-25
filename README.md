@@ -5,7 +5,7 @@
 How many times have others visited?  
 ![Profile Views](https://komarev.com/ghpvc/?username=tinyannadas&style=for-the-badge&label=%20👀%20) ![GitHub Followers](https://img.shields.io/github/followers/tinyannadas?style=for-the-badge&logo=github)
 
-### 👩‍💻 About Me
+## About Me 🤓
 - 🔭 **Currently:** Full Stack Python Developer at MrSolvo.com
 - 💼 **Expertise:** Building scalable web applications with Django & React/Next.js
 - 🌱 **Currently Learning:** Nginx for hosting websites & integrating AI features
@@ -15,12 +15,12 @@ How many times have others visited?
 
 ---
 
-### ✍️ Quote That Drives Me
+## ✍️ Quote That Drives Me
 *"There is nothing more interesting than a problem you are unsure you can solve."*
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 #### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +49,7 @@ How many times have others visited?
 
 ---
 
-### 💼 Projects
+## 💼 Projects
 
 #### 🤝 **MrSolvo.com - Freelancing Platform** (Current)
 - **Tech Stack:** Django REST Framework, Next.js, MySQL
@@ -80,7 +80,7 @@ How many times have others visited?
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tinyannadas&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyannadas&theme=radical" />
@@ -91,7 +91,7 @@ How many times have others visited?
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://twitter.com/tinyannadas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/tinyannadas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
