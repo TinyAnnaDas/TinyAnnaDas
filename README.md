@@ -81,15 +81,15 @@ How many times have others visited?
   - Responsive design
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tinyannadas&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyannadas&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tinyannadas&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyannadas&theme=dark" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyannadas&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyannadas&layout=compact&theme=dark" />
 </p>
+
 
 ---
 
