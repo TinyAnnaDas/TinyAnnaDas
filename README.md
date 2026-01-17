@@ -8,7 +8,7 @@ How many times have others visited?
 ## About Me 🤓
 - 🔭 **Currently:** Full Stack Python Developer at MrSolvo.com
 - 💼 **Expertise:** Building scalable web applications with Django & React/Next.js
-- 🌱 **Currently Learning:** Nginx for hosting websites & integrating AI features
+- 🌱 **Currently Learning:** Intelligent Research Assistant with Multi-Agent Orchestration
 - 💬 **Ask Me About:** Django, DRF, React/Next.js, and building full-stack applications
 - 📫 **Reach Me At:** [tinypchristhudas@gmail.com](mailto:tinypchristhudas@gmail.com)
 - ⚡ **Fun Fact:** I started coding while searching for life's meaning and found my passion instead
