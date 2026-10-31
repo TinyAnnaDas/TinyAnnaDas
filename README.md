@@ -1,8 +1,3 @@
-<!-- Photo-first profile: common pattern from github-profile-readme examples -->
-<p align="center">
-  <img src="assets/tiny_image.png" alt="Tiny P Christhudas" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Tiny</h1>
 
 <p align="center">
