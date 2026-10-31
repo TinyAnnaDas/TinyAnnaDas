@@ -38,7 +38,7 @@ I'm a **Full Stack Engineer (Python + React)** with 4+ years of experience, curr
 
 I like owning features end to end: API design, database performance, production rollout, plus code review and mentoring along the way.
 
-> 🔭 **Now:** Study on Campus (Django, PostgreSQL) at IIT Madras
+> 🔭 **Now:** Study on Campus (Django, PostgreSQL, Docker) at IIT Madras
 > 🧪 **Exploring:** multi-agent systems with LangGraph, RAG with FAISS
 > 🤝 **Open to:** mentoring, backend and AI engineering conversations
 
@@ -51,11 +51,15 @@ I like owning features end to end: API design, database performance, production 
     <td width="170" valign="top"><b>Apr 2026 – Present</b></td>
     <td valign="top">
       <b>Senior Developer</b> · IIT Madras, Chennai<br />
-      Building <b>Study on Campus</b>: registration, drop workflows, grades. Reviewing PRs and interviewing interns.<br />
+      Building <b>Study on Campus</b>: registration, drop workflows, grades. Reviewing PRs and interviewing interns.<br /><br />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dramatiq-4F6F52?style=flat-square" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
