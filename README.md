@@ -1,10 +1,7 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER: title + tagline in one image to avoid gap under the wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263D2D,50:3A5A40,100:56784A&text=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&fontColor=F7F1E3&fontSize=28&fontAlignY=50&animation=fadeIn" alt="Full Stack Engineer · Python + React · AI Backends" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:263D2D,50:3A5A40,100:56784A&text=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&fontColor=F7F1E3&fontSize=26&fontAlignY=35&desc=Senior%20Developer%20at%20IIT%20Madras%20·%20I%20build%20backend-heavy%20products%20and%20explore%20AI%20backends%20with%20LangGraph%20and%20RAG&descAlignY=55&descSize=14&descColor=E3D5B0&animation=fadeIn" alt="Full Stack Engineer · Python + React · AI Backends" />
 </p>
-
-<!-- TAGLINE -->
-<h3 align="center">Senior Developer at IIT Madras<br />I build backend-heavy products and explore AI backends with LangGraph and RAG</h3>
 
 <!-- IMPACT STRIP -->
 <table align="center">
