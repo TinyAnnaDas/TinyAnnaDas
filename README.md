@@ -1,27 +1,27 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F766E,100:14B8A6&text=Hi,%20I'm%20Tiny&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=60&descSize=18" alt="Hi, I'm Tiny" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3A5A40,50:6B8F5E,100:C9A66B&text=Hi,%20I'm%20Tiny&fontColor=F7F1E3&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=60&descSize=18" alt="Hi, I'm Tiny" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/TinyAnnaDas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=640&lines=Senior+Developer+at+IIT+Madras;I+build+backend-heavy+products+at+scale;Django+%C2%B7+FastAPI+%C2%B7+Next.js;Exploring+LangGraph+%26+RAG+in+side+projects" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F6F52&center=true&vCenter=true&width=640&lines=Senior+Developer+at+IIT+Madras;I+build+backend-heavy+products+at+scale;Django+%C2%B7+FastAPI+%C2%B7+Next.js;Exploring+LangGraph+%26+RAG+in+side+projects" alt="Typing animation" />
   </a>
 </p>
 
 <!-- CONTACT BADGES -->
 <p align="center">
-  <a href="mailto:tinypchristhudas@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tinyannadas"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tinyannadas"><img src="https://img.shields.io/badge/X-0F766E?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://mrsolvo.com"><img src="https://img.shields.io/badge/mrsolvo.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mrsolvo.com" /></a>
+  <a href="mailto:tinypchristhudas@gmail.com"><img src="https://img.shields.io/badge/Email-4F6F52?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tinyannadas"><img src="https://img.shields.io/badge/LinkedIn-4F6F52?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/tinyannadas"><img src="https://img.shields.io/badge/X-4F6F52?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://mrsolvo.com"><img src="https://img.shields.io/badge/mrsolvo.com-4F6F52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mrsolvo.com" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TinyAnnaDas&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-0F766E?style=flat-square" alt="Chennai" />
-  <img src="https://img.shields.io/badge/Open%20to-Mentoring%20%26%20AI%20backend%20chats-14B8A6?style=flat-square" alt="Open to" />
+  <img src="https://komarev.com/ghpvc/?username=TinyAnnaDas&label=Profile%20views&color=4F6F52&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-4F6F52?style=flat-square" alt="Chennai" />
+  <img src="https://img.shields.io/badge/Open%20to-Mentoring%20%26%20AI%20backend%20chats-8A9A5B?style=flat-square" alt="Open to" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I like owning features end to end: API design, database performance, production 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/TinyAnnaDas/ai-research-assistant">🧠 AI Research Assistant</a></h3>
       Multi-agent orchestration over REST with RAG on FAISS, and a shared layer across OpenAI, Anthropic, and Azure OpenAI.<br /><br />
-      <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangGraph-4F6F52?style=flat-square" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/FAISS-5C4EE5?style=flat-square" />
     </td>
@@ -87,7 +87,7 @@ I like owning features end to end: API design, database performance, production 
       Online therapy platform with multi-role users, JWT auth, session booking, and real-time notifications.<br /><br />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/WebSockets-0F766E?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebSockets-4F6F52?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -116,8 +116,8 @@ I like owning features end to end: API design, database performance, production 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinyannadas&theme=vue" height="180" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinyannadas&theme=vue" height="180" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinyannadas&theme=solarized" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinyannadas&theme=solarized" height="180" alt="Top languages" />
 </p>
 
 ---
@@ -127,4 +127,4 @@ I like owning features end to end: API design, database performance, production 
   <a href="mailto:tinypchristhudas@gmail.com">tinypchristhudas@gmail.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:14B8A6,100:0F766E&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C9A66B,50:6B8F5E,100:3A5A40&section=footer" width="100%" alt="" />
