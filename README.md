@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Tiny P Christhudas" width="100%" />
+  <img src="assets/banner.png" alt="Tiny P Christhudas" width="100%" />
 </div>
 
 <br />
@@ -105,8 +105,8 @@ Online therapy platform with multi-role users, JWT auth, booking, and real-time 
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tinyannadas&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&icon_color=0ea5e9&text_color=334155" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyannadas&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tinyannadas&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0ea5e9&text_color=334155" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tinyannadas&layout=compact&hide_border=true&title_color=0f766e&text_color=334155" alt="Top languages" />
 </p>
 
 ---
