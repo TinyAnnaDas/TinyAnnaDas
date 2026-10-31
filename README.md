@@ -69,7 +69,7 @@ I like owning features end to end: API design, database performance, production 
       Built a marketplace end to end.<br />
       ⚡ Optimized API queries from <b>~2000 to ~15</b><br />
       🚀 Improved PageSpeed from the <b>30s–40s to 80s</b><br />
-      💳 Integrated payments with <b>PhonePe and Airpay</b><br />
+      💳 Integrated payments with <b>PhonePe and Airpay</b><br /><br />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
