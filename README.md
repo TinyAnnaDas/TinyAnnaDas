@@ -1,14 +1,20 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3A5A40,50:6B8F5E,100:C9A66B&text=Hi,%20I'm%20Tiny&fontColor=F7F1E3&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=60&descSize=18" alt="Hi, I'm Tiny" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:263D2D,50:3A5A40,100:56784A&text=Hi,%20I'm%20Tiny&fontColor=F7F1E3&fontSize=64&fontAlignY=40&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=62&descSize=20&descColor=E3D5B0&animation=fadeIn" alt="Hi, I'm Tiny" />
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/TinyAnnaDas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F6F52&center=true&vCenter=true&width=640&lines=Senior+Developer+at+IIT+Madras;I+build+backend-heavy+products+at+scale;Django+%C2%B7+FastAPI+%C2%B7+Next.js;Exploring+LangGraph+%26+RAG+in+side+projects" alt="Typing animation" />
-  </a>
-</p>
+<!-- TAGLINE -->
+<h3 align="center">Senior Developer at IIT Madras<br />I build backend-heavy products and explore AI backends with LangGraph and RAG</h3>
+
+<!-- IMPACT STRIP -->
+<table align="center">
+  <tr>
+    <td align="center" width="180"><h2>4+</h2>years building<br />full-stack products</td>
+    <td align="center" width="180"><h2>2000 → 15</h2>API queries after<br />optimization</td>
+    <td align="center" width="180"><h2>30s → 80s</h2>PageSpeed score<br />improvement</td>
+    <td align="center" width="180"><h2>2</h2>payment gateways<br />(PhonePe, Airpay)</td>
+  </tr>
+</table>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -127,4 +133,4 @@ I like owning features end to end: API design, database performance, production 
   <a href="mailto:tinypchristhudas@gmail.com">tinypchristhudas@gmail.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C9A66B,50:6B8F5E,100:3A5A40&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56784A,50:3A5A40,100:263D2D&section=footer&height=120" width="100%" alt="" />
