@@ -41,6 +41,7 @@ I like owning features end to end: API design, database performance, production 
 > 🔭 **Now:** Study on Campus (Django, PostgreSQL, Docker) at IIT Madras
 > 🧪 **Exploring:** multi-agent systems with LangGraph, RAG with FAISS
 > 🤝 **Open to:** mentoring, backend and AI engineering conversations
+> 📘 **For juniors / collaborators:** [How I name branches and commits](docs/branch-and-commit-naming.md)
 
 ---
 
