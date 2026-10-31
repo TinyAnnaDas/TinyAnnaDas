@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263D2D,50:3A5A40,100:56784A&text=Hi,%20I'm%20Tiny&fontColor=F7F1E3&fontSize=40&fontAlignY=42&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=64&descSize=16&descColor=E3D5B0&animation=fadeIn" alt="Hi, I'm Tiny" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263D2D,50:3A5A40,100:56784A&text=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&fontColor=F7F1E3&fontSize=28&fontAlignY=50&animation=fadeIn" alt="Full Stack Engineer · Python + React · AI Backends" />
 </p>
 
 <!-- TAGLINE -->
