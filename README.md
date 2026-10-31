@@ -1,141 +1,169 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263D2D,50:3A5A40,100:56784A&text=Hi,%20I'm%20Tiny&fontColor=F7F1E3&fontSize=40&fontAlignY=42&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=64&descSize=16&descColor=E3D5B0&animation=fadeIn" alt="Hi, I'm Tiny" />
-</p>
+---
+description: Rulebook for naming git branches and commit messages (with prefixes and specific scopes)
+alwaysApply: true
+---
 
-<!-- TAGLINE -->
-<h3 align="center">Senior Developer at IIT Madras<br />I build backend-heavy products and explore AI backends with LangGraph and RAG</h3>
+# Branch and commit naming rulebook
 
-<!-- IMPACT STRIP -->
-<table align="center">
-  <tr>
-    <td align="center" width="180"><h2>4+</h2>years building<br />full-stack products</td>
-    <td align="center" width="180"><h2>2000 → 15</h2>API queries after<br />optimization</td>
-    <td align="center" width="180"><h2>30s → 80s</h2>PageSpeed score<br />improvement</td>
-    <td align="center" width="180"><h2>2</h2>payment gateways<br />(PhonePe, Airpay)</td>
-  </tr>
-</table>
+## Core idea
 
-<!-- CONTACT BADGES -->
-<p align="center">
-  <a href="mailto:tinypchristhudas@gmail.com"><img src="https://img.shields.io/badge/Email-4F6F52?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tinyannadas"><img src="https://img.shields.io/badge/LinkedIn-4F6F52?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tinyannadas"><img src="https://img.shields.io/badge/X-4F6F52?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://mrsolvo.com"><img src="https://img.shields.io/badge/mrsolvo.com-4F6F52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mrsolvo.com" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TinyAnnaDas&label=Profile%20views&color=4F6F52&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-4F6F52?style=flat-square" alt="Chennai" />
-  <img src="https://img.shields.io/badge/Open%20to-Mentoring%20%26%20AI%20backend%20chats-8A9A5B?style=flat-square" alt="Open to" />
-</p>
+- **Branch** = the main user-visible story
+- **Commit** = one beat of that story
+- Name both for the **outcome**, not for every file touched
+- If a second concern starts mid-way → new branch / new PR (and usually a new commit series)
 
 ---
 
-## 👩‍💻 About me
+## Branches
 
-I'm a **Full Stack Engineer (Python + React)** with 4+ years of experience, currently a **Senior Developer at IIT Madras**, where I build the systems students rely on for registration, courses, and grades.
+### Prefix by kind of work
 
-I like owning features end to end: API design, database performance, production rollout, plus code review and mentoring along the way.
+| Prefix | Use when | Example |
+|--------|----------|---------|
+| `feature/` | New capability users did not have | `feature/bulk-drop-excel` |
+| `fix/` | Broken or incorrect behavior | `fix/drop-pagination-double-fetch` |
+| `refactor/` | Restructure / reuse with same behavior | `refactor/drop-common-data-table` |
+| `chore/` | Tooling, cleanup, deps, non-product | `chore/remove-unused-registered-courses-table` |
+| `hotfix/` | Urgent production break | `hotfix/drop-api-500` |
 
-> 🔭 **Now:** Study on Campus (Django, PostgreSQL, Docker) at IIT Madras
-> 🧪 **Exploring:** multi-agent systems with LangGraph, RAG with FAISS
-> 🤝 **Open to:** mentoring, backend and AI engineering conversations
-> 📘 **For juniors / collaborators:** [How I name branches and commits](docs/branch-and-commit-naming.md)
+### Branch naming rules
 
----
+1. Prefer **kebab-case** after the prefix
+2. Name the **user-visible outcome**, not tickets-only or file names
+3. Avoid trailing junk like `feature/bulk-drop1` when `feature/bulk-drop-excel` is clearer
+4. One main concern per branch; do not mix large feature + large refactor in one PR if it can split
+5. Keep it short enough to read in a PR list (~3–6 words after the prefix)
 
-## 💼 Experience
+### Branch examples
 
-<table>
-  <tr>
-    <td width="170" valign="top"><b>Apr 2026 – Present</b></td>
-    <td valign="top">
-      <b>Senior Developer</b> · IIT Madras, Chennai<br />
-      Building <b>Study on Campus</b>: registration, drop workflows, grades. Reviewing PRs and interviewing interns.<br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dramatiq-4F6F52?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><b>Aug 2023 – Feb 2026</b></td>
-    <td valign="top">
-      <b>Software Engineer</b> · Mukul Consultants, Noida · <a href="https://mrsolvo.com">mrsolvo.com</a><br />
-      Built a marketplace end to end.<br />
-      ⚡ Optimized API queries from <b>~2000 to ~15</b><br />
-      🚀 Improved PageSpeed from the <b>30s–40s to 80s</b><br />
-      💳 Integrated payments with <b>PhonePe and Airpay</b><br /><br />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-</table>
+```
+Good: feature/bulk-drop-excel
+Good: fix/drop-period-filter-clears-selection
+Good: refactor/drop-tables-use-common-data-table
+
+Bad: feature/bulk-drop1
+Bad: fix/UI
+Bad: asu-dev5-updates
+Bad: feature/DropRegisteredStudentsTable-CommonDataTable-Excel-modal
+```
 
 ---
 
-## 🚀 Featured projects
+## Commits
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TinyAnnaDas/ai-research-assistant">🧠 AI Research Assistant</a></h3>
-      Multi-agent orchestration over REST with RAG on FAISS, and a shared layer across OpenAI, Anthropic, and Azure OpenAI.<br /><br />
-      <img src="https://img.shields.io/badge/LangGraph-4F6F52?style=flat-square" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-5C4EE5?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TinyAnnaDas/Inhealin">🩺 Inhealin</a></h3>
-      Online therapy platform with multi-role users, JWT auth, session booking, and real-time notifications.<br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/WebSockets-4F6F52?style=flat-square" />
-    </td>
-  </tr>
-</table>
+### Always use prefix + specific scope
+
+Format:
+
+```
+<prefix>(<scope>): <plain-English outcome>
+```
+
+Allowed prefixes:
+
+| Prefix | Meaning |
+|--------|---------|
+| `feat` | New user-facing capability |
+| `fix` | Bug fix or hardening of broken/unsafe behavior |
+| `refactor` | Same behavior, clearer/shared structure |
+| `chore` | Cleanup, deps, config, dead code removal |
+| `style` | UI/spacing/copy polish with no behavior change |
+| `revert` | Explicitly undoes a previous change |
+
+### Scope rules (important)
+
+1. Scope = the **specific feature area**, not only the broad module
+2. Use **kebab-case**
+3. Prefer the screen/flow name people use in conversation
+4. Do **not** stop at a vague module name when a tighter scope exists
+
+Within registration, prefer scopes like:
+
+| Prefer | Avoid when a tighter scope fits |
+|--------|----------------------------------|
+| `drop-registration` | `registration` |
+| `bulk-drop` | `registration` |
+| `mass-registration` | `registration` |
+| `bulk-registration` | `registration` |
+| `add-registration` | `registration` |
+| `student-registration` | `registration` |
+| `faculty-approval` | `registration` |
+
+Same idea elsewhere:
+
+| Prefer | Avoid when tighter exists |
+|--------|---------------------------|
+| `slotbook-editor` | `slotbook` alone |
+| `slotbook-preview` | `slotbook` alone |
+| `student-efile` | `profile` alone |
+| `my-advisees` | `profile` alone |
+
+Use the broad module (`registration`, `slotbook`) only when the change truly spans several flows and no single tighter scope fits.
+
+### Commit rules
+
+1. **One commit = one reason** a teammate would care
+2. If the subject needs “and”, split into two commits
+3. Prefer a **plain outcome sentence** after the scope (team-readable, not jargon soup)
+4. Never use: `WIP`, `update`, `fix stuff`, `good gemini`, `gemini fix`
+5. Review-bot follow-ups still get a real message: say **what** you fixed
+6. Suggested commit messages from the agent must include **prefix + specific scope**
+7. A revert should be explicit: `revert(<scope>): <what you are undoing>`
+
+### Commit examples
+
+```
+Good: feat(bulk-drop): add Excel download for registered students
+Good: feat(drop-registration): show success toast after drop confirms
+Good: fix(bulk-drop): prevent Excel export crash when API data is missing
+Good: fix(drop-registration): check filter button ref before measuring panel
+Good: refactor(drop-registration): reuse CommonDataTable on students list
+Good: refactor(drop-registration): reuse CommonDataTable on courses list
+Good: chore(drop-registration): remove unused RegisteredCoursesTable
+Good: style(drop-registration): tighten header density
+Good: feat(mass-registration): show Ready Warn Blocked chips on cohort grid
+Good: fix(add-registration): keep category dropdown visible for all rows
+Good: revert(slotbook-editor): undo period resolution change in class composition modal
+
+Bad: feat(registration): add excel download
+Bad: fix(registration): gemini issues
+Bad: good gemini
+Bad: Update DropByCourseNo.tsx
+Bad: fix
+Bad: feat(registration): refactor migrate clash soft-warn path to hard-fail semantics in attempt_register
+Bad: WIP
+```
+
+### Quick self-check before committing
+
+1. Does the prefix match the kind of change?
+2. Is the scope specific enough (`drop-registration` / `mass-registration`, not just `registration`)?
+3. Can a teammate understand the outcome without opening the diff?
+4. Would reverting **only this commit** leave the branch in a sensible state?
+5. Is this still the same story as the branch, or should it be a new branch/PR?
 
 ---
 
-## 🛠️ Tech stack
+## How branch + commits work together
 
-<p align="center">
-  <b>Backend</b><br />
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&perline=6" alt="Backend" />
-</p>
+Example story: Bulk Drop Excel
 
-<p align="center">
-  <b>Frontend</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=6" alt="Frontend" />
-</p>
+```
+Branch: feature/bulk-drop-excel
 
-<p align="center">
-  <b>Infra and tools</b><br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" alt="Infra" />
-</p>
+Commits:
+  feat(bulk-drop): add Excel download for registered students
+  feat(bulk-drop): wire Excel upload to select rows
+  feat(bulk-drop): replace students table from Excel upload
+  fix(bulk-drop): harden Excel load when API data is missing
+```
 
----
+Follow-up story (separate):
 
-## 📊 GitHub stats
+```
+Branch: refactor/drop-tables-use-common-data-table
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinyannadas&theme=solarized" height="180" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinyannadas&theme=solarized" height="180" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Looking for a full-stack Python + React engineer, or want to talk backend and AI?</b><br />
-  <a href="mailto:tinypchristhudas@gmail.com">tinypchristhudas@gmail.com</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56784A,50:3A5A40,100:263D2D&section=footer&height=120" width="100%" alt="" />
+Commits:
+  refactor(drop-registration): reuse CommonDataTable on students list
+  refactor(drop-registration): reuse CommonDataTable on courses list
+```
