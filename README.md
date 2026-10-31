@@ -1,61 +1,119 @@
-<h1 align="center">Hi, I'm Tiny</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  Full Stack Engineer (Python + React) · 4+ YOE<br />
-  Django/DRF · FastAPI · Next.js. Exploring AI backends (LangGraph, RAG) in personal projects.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F766E,100:14B8A6&text=Hi,%20I'm%20Tiny&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Python%20%2B%20React%20·%20AI%20Backends&descAlignY=60&descSize=18" alt="Hi, I'm Tiny" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/TinyAnnaDas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=640&lines=Senior+Developer+at+IIT+Madras;I+build+backend-heavy+products+at+scale;Django+%C2%B7+FastAPI+%C2%B7+Next.js;Exploring+LangGraph+%26+RAG+in+side+projects" alt="Typing animation" />
+  </a>
+</p>
+
+<!-- CONTACT BADGES -->
+<p align="center">
+  <a href="mailto:tinypchristhudas@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tinyannadas"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/tinyannadas"><img src="https://img.shields.io/badge/X-0F766E?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://mrsolvo.com"><img src="https://img.shields.io/badge/mrsolvo.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mrsolvo.com" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:tinypchristhudas@gmail.com">Email</a>
-  ·
-  <a href="https://linkedin.com/in/tinyannadas">LinkedIn</a>
-  ·
-  <a href="https://github.com/tinyannadas">GitHub</a>
-  ·
-  <a href="https://twitter.com/tinyannadas">X</a>
+  <img src="https://komarev.com/ghpvc/?username=TinyAnnaDas&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-0F766E?style=flat-square" alt="Chennai" />
+  <img src="https://img.shields.io/badge/Open%20to-Mentoring%20%26%20AI%20backend%20chats-14B8A6?style=flat-square" alt="Open to" />
 </p>
 
 ---
 
-### What I'm working on
+## 👩‍💻 About me
 
-- Study on Campus at IIT Madras: registration, drops, grades (Django, PostgreSQL)
-- A LangGraph + RAG project: [ai-research-assistant](https://github.com/TinyAnnaDas/ai-research-assistant)
-- Open to: mentoring, backend and AI engineering conversations
+I'm a **Full Stack Engineer (Python + React)** with 4+ years of experience, currently a **Senior Developer at IIT Madras**, where I build the systems students rely on for registration, courses, and grades.
 
----
+I like owning features end to end: API design, database performance, production rollout, plus code review and mentoring along the way.
 
-### Experience
-
-- **Senior Developer** · IIT Madras · Apr 2026 - Present\
-  Study on Campus: registration, drop workflows, PR reviews, intern interviews
-
-- **Software Engineer** · Mukul Consultants · Aug 2023 - Feb 2026 · [mrsolvo.com](https://mrsolvo.com)\
-  Marketplace end to end: API optimization (~2000 to ~15 queries), PageSpeed 30s-40s to 80s, PhonePe/Airpay
+> 🔭 **Now:** Study on Campus (Django, PostgreSQL) at IIT Madras
+> 🧪 **Exploring:** multi-agent systems with LangGraph, RAG with FAISS
+> 🤝 **Open to:** mentoring, backend and AI engineering conversations
 
 ---
 
-### Personal projects
+## 💼 Experience
 
-- **[AI Research Assistant](https://github.com/TinyAnnaDas/ai-research-assistant)**\
-  Multi-agent orchestration over REST, RAG with FAISS, shared layer over OpenAI / Anthropic / Azure OpenAI
-
-- **[Inhealin](https://github.com/TinyAnnaDas/Inhealin)**\
-  Online therapy platform: multi-role users, JWT auth, booking, real-time notifications
+<table>
+  <tr>
+    <td width="170" valign="top"><b>Apr 2026 – Present</b></td>
+    <td valign="top">
+      <b>Senior Developer</b> · IIT Madras, Chennai<br />
+      Building <b>Study on Campus</b>: registration, drop workflows, grades. Reviewing PRs and interviewing interns.<br />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><b>Aug 2023 – Feb 2026</b></td>
+    <td valign="top">
+      <b>Software Engineer</b> · Mukul Consultants, Noida · <a href="https://mrsolvo.com">mrsolvo.com</a><br />
+      Built a marketplace end to end.<br />
+      ⚡ Optimized API queries from <b>~2000 to ~15</b><br />
+      🚀 Improved PageSpeed from the <b>30s–40s to 80s</b><br />
+      💳 Integrated payments with <b>PhonePe and Airpay</b><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Stack
+## 🚀 Featured projects
 
-**Backend:** Python · Django · DRF · FastAPI · PostgreSQL · MySQL
-
-**Frontend:** React · Next.js · TypeScript · Tailwind
-
-**AI and infra:** LangGraph · RAG · Docker · AWS · Redis
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TinyAnnaDas/ai-research-assistant">🧠 AI Research Assistant</a></h3>
+      Multi-agent orchestration over REST with RAG on FAISS, and a shared layer across OpenAI, Anthropic, and Azure OpenAI.<br /><br />
+      <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-5C4EE5?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TinyAnnaDas/Inhealin">🩺 Inhealin</a></h3>
+      Online therapy platform with multi-role users, JWT auth, session booking, and real-time notifications.<br /><br />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/WebSockets-0F766E?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub stats
+## 🛠️ Tech stack
+
+<p align="center">
+  <b>Backend</b><br />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&perline=6" alt="Backend" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=6" alt="Frontend" />
+</p>
+
+<p align="center">
+  <b>Infra and tools</b><br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" alt="Infra" />
+</p>
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinyannadas&theme=vue" height="180" alt="GitHub stats" />
@@ -65,6 +123,8 @@
 ---
 
 <p align="center">
-  Open to conversations about full-stack Python + React roles<br />
+  <b>Looking for a full-stack Python + React engineer, or want to talk backend and AI?</b><br />
   <a href="mailto:tinypchristhudas@gmail.com">tinypchristhudas@gmail.com</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:14B8A6,100:0F766E&section=footer" width="100%" alt="" />
